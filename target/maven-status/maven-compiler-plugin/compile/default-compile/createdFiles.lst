@@ -1,0 +1,12 @@
+com\wampus\Hunter.class
+com\wampus\Room.class
+com\wampus\Main.class
+com\wampus\World.class
+com\wampus\AgentRoom.class
+com\wampus\KnowledgeBase.class
+com\wampus\Pathfinder.class
+com\wampus\Main$1.class
+com\wampus\Percept.class
+com\wampus\Point.class
+com\wampus\Direction.class
+com\wampus\Launcher.class
